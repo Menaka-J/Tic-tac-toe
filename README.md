@@ -2,11 +2,11 @@
 Two players play the game of tic-tac-toe by drawing a “O” or a “X” alternately in one square of a nine-square grid. The first player to collect three identical symbols in a row wins.
 A fun and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This game features an attractive design, smooth animations, and engaging gameplay. Play against a friend and enjoy the experience!
 
-Try Now
+### Try Now
 🔗 Live Link: https://menaka-j.github.io/Tic-tac-toe/
 
 
-🚀 Features
+### 🚀 Features
 ✅ Beautiful and modern UI with animations 🎨
 ✅ Smooth hover effects and transitions ⚡
 ✅ Winning and draw detection 🏆
@@ -15,7 +15,7 @@ Try Now
 ✅ Responsive design for mobile and desktop 📱
 
 
-🎮 How to Play
+### 🎮 How to Play
 The game starts with Player X.
 Click on any available cell to place your move.
 Players take turns marking cells on a 3x3 grid.
@@ -27,5 +27,3 @@ Click the Restart Game button to play again.
 🔹 Implement an AI bot for a single-player mode 🤖
 🔹 Highlight winning row/column with an animation ✨
 🔹 Add a dark mode toggle 🌙
-
-💡 Feel free to suggest new features! 🚀
